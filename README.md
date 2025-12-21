@@ -3,10 +3,25 @@
 # Assignment 1: Основы C++ и OpenMP 
 
 **Astana IT University**  
+
 **Course:** Heterogeneous Parallelization
+
 **Course instructor:** Садвакасова Куралай Жанжигитовна  
+
 **Student:** Жумагулова Карина 
-**Group:** ADA-2403M  
+
+**Group:** ADA-2403M
+
 **Date:** 21.12.2025  
 
-HeterogeneousParallelization_Assignment1 contains solutions for Assignment 1 of the Heterogeneous Parallelization course. It focuses on C++ fundamentals and OpenMP-based parallelization, comparing sequential and parallel implementations and analyzing performance using execution time measurements.
+Данный репозиторий содержит решения Assignment 1, посвящённого основам программирования на C++, работе с динамической памятью и параллельным программированием с использованием OpenMP.
+В проекте реализованы последовательные и параллельные алгоритмы обработки массивов большого размера с измерением и сравнением времени выполнения.
+
+## Структура репозитория
+.
+├── task1.cpp       # Задание 1: среднее значение (последовательный алгоритм)
+├── task2.cpp       # Задание 2: последовательный поиск минимума и максимума
+├── task3.cpp       # Задание 3: последовательный и параллельный поиск min/max
+├── task4.cpp       # Задание 4: среднее значение с использованием OpenMP reduction
+├── questions.md    # Контрольные вопросы: ответы на контрольные вопросы к Assignment 1
+├── README.md       # Описание проекта
