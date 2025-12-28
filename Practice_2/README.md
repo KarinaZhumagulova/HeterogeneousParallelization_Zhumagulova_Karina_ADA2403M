@@ -1,4 +1,4 @@
-# HeterogeneousParallelization_Zhumagulova_Karina_ADA2403M/Practice_2
+# HeterogeneousParallelization_Practice_2
 
 # Практическая работа №2: Параллельная реализация простых алгоритмов сортировки
 (пузырьком, выбором, вставкой) на CPU с использованием OpenMP
