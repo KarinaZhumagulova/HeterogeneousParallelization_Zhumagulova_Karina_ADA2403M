@@ -103,3 +103,7 @@ void DynamicMemoryTask() {
     cout << "\nDynamic memory freed.\n";
     cout << "Task completed successfully.\n";
 }
+int main() {
+    DynamicMemoryTask();
+    return 0;
+}
