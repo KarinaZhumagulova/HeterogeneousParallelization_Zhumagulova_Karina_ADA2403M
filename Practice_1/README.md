@@ -52,7 +52,7 @@
 - `task1.cpp` содержит полный код задания с последовательной и параллельной реализацией.  
 
 ### Скриншот результатов
-![Task1 Output](Practice_1/practice_1_task_1_1.png)  
+![Task1 Output](/practice_1_task_1_1.png)  
 
 ---
 
