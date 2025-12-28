@@ -53,7 +53,7 @@
 
 
 ### Скриншот результатов
-![Task1 Output](HeterogeneousParallelization_Zhumagulova_Karina_ADA2403M/Practice_1/practice_1_task_1_1.png)
+<img width="2796" height="1692" alt="image" src="https://github.com/user-attachments/assets/f05014e8-d6e3-4d82-973b-029c7fd31799" />
 
 ---
 
