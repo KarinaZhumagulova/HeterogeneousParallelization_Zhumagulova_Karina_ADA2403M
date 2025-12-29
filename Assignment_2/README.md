@@ -1,6 +1,6 @@
 # HeterogeneousParallelization_Assignment 2
 
-# Assignment 2: OpenMP, CUDA и гетерогенные вычислени
+# Assignment 2: OpenMP, CUDA и гетерогенные вычисления
 
 **Astana IT University**  
 
