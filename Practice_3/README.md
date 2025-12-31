@@ -86,7 +86,7 @@
 * Получить практический опыт реализации **параллельных алгоритмов сортировки**.
 
 ### Скриншот результатов
-<img width="2526" height="1672" alt="image" src="https://github.com/user-attachments/assets/32254dde-893c-45d3-817e-df2c4bd33113" />
+<img width="1838" height="1108" alt="image" src="https://github.com/user-attachments/assets/ab419162-edcf-4a10-90fc-11f732ad82b9" />
 
 ## Контрольные вопросы (`questions.md`)
 
@@ -106,5 +106,4 @@
 - получен практический опыт использования OpenMP и анализа производительности программ.
 
 
-<img width="1838" height="1108" alt="image" src="https://github.com/user-attachments/assets/ab419162-edcf-4a10-90fc-11f732ad82b9" />
 
