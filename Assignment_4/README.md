@@ -1,4 +1,4 @@
-# HeterogeneousAndDistributedParallelization_Assignment4
+# HeterogeneousParallelization_Assignment4
 
 # Assignment 4: Гибридные и распределённые параллельные вычисления
 
