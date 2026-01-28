@@ -42,6 +42,7 @@
 ```
 .
 ├── practice8_all.cu   # Реализация всех режимов (CPU, CPU+OpenMP, CUDA, Hybrid)
+├── questions.md          # Ответы на контрольные вопросы
 ├── README.md          # Этот файл
 ```
 
