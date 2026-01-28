@@ -35,6 +35,7 @@
 ├── task_1_array_addition.cu   # Параллельное сложение массивов на CUDA
 ├── task_2_matrix_multiplication.cu # Параллельное умножение матриц на CUDA
 ├── HP_Practice_6.ipynb           # Jupyter Notebook с примерами запуска в Colab
+├── questions.md          # Ответы на контрольные вопросы
 ├── README.md                  # Этот файл
 ```
 
