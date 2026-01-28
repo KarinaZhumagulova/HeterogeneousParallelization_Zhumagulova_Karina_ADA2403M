@@ -167,4 +167,5 @@ Hybrid CPU + GPU time:     1.89634 ms
 <img width="1420" height="514" alt="image" src="https://github.com/user-attachments/assets/42b54cc4-b40e-4a6b-bb71-7c0bda9a75ca" />
 
 ## Контрольные вопросы
+Ответы на контрольные вопросы приведены в файле questions.md.
 
